@@ -11,5 +11,5 @@ This game uses:
 * C# code
 * Microsoft Visual Studio 2022
 
-The tutorial used for this game can be found on the 
-`Unity Learn website <https://learn.unity.com/project/roll-a-ball?uv=2019.4>`_.
+The tutorial used for this game can be found on the
+<a href="https://learn.unity.com/project/roll-a-ball?uv=2019.4">Unity Learn website</a>.
