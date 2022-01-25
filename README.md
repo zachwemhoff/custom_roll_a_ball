@@ -12,4 +12,4 @@ This game uses:
 * Microsoft Visual Studio 2022
 
 The tutorial used for this game can be found on the 
-`Unity Learn Website <https://learn.unity.com/project/roll-a-ball?uv=2019.4>`_.
+` Unity Learn website <https://learn.unity.com/project/roll-a-ball?uv=2019.4>`_.
